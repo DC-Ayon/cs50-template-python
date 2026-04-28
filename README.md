@@ -9,3 +9,6 @@ Input:
 
 Output:
 25
+
+
+![alt text]([http://url/to/img.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu8ynq9GtHZyMlNmiHgQzcEv7lXSvonpDQ&s))
