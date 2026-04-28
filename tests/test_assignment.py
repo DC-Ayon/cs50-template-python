@@ -11,6 +11,7 @@ def run_test(input_data, expected_output):
         text=True,
         capture_output=True
     )
+
     return result.stdout.strip() == expected_output
 
 def test_case_1():
