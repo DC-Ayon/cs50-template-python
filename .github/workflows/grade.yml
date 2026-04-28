@@ -19,14 +19,13 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt || true
-
+          
       - name: Run tests and save results
         run: |
           echo "Running tests..."
           python tests/test_assignment.py | tee result.txt
-
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: grading-results
-          path: result.txt
+      
+      - name: Show results in summary
+        run: |
+          echo "## 🧪 Grading Results" >> $GITHUB_STEP_SUMMARY
+          cat result.txt >> $GITHUB_STEP_SUMMARY
