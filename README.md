@@ -1,11 +1,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu8ynq9GtHZyMlNmiHgQzcEv7lXSvonpDQ&s)
 
 # 🧠 Assignment 1: Square a Number
-
-![Auto Grade](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/grade.yml/badge.svg)
-
----
-
 ## 📌 Overview
 
 This assignment focuses on implementing a simple Python program that computes the square of a number.
