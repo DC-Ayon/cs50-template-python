@@ -1,4 +1,4 @@
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu8ynq9GtHZyMlNmiHgQzcEv7lXSvonpDQ&s](https://profile.deepcytes.io/dclogoUK.png)
+![alt text](https://profile.deepcytes.io/dclogoUK.png)
 
 # 🧠 Assignment 1: Square a Number
 ## 📌 Overview
